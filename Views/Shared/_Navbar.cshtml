@@ -1,0 +1,69 @@
+﻿@using Microsoft.AspNetCore.Identity
+@inject SignInManager<IdentityUser> SignInManager
+@inject UserManager<IdentityUser> UserManager
+
+<header class="section-header">
+  <div class="container d-none d-lg-block">
+    <div class="row">
+      <div class="col-lg-4">
+        <div class="">
+          <partial name="_Language" />
+        </div>
+      </div>
+      <div class="col-lg-5">
+        @if (SignInManager.IsSignedIn(User))
+        {
+          <div class="d-none d-md-block">
+            <div class="custom-control custom-switch">
+              <input type="checkbox" class="custom-control-input" id="editable" value="true">
+              <label class="custom-control-label" for="editable">Edit </label>
+            </div>
+          </div>
+        }
+      </div>
+      <div class="col-lg-3">
+        <partial name="_SocialMedia" />
+      </div>
+    </div>
+  </div>
+
+  <!-- ============= COMPONENT ============== -->
+  <nav class="navbar navbar-expand-lg navbar-dark bg-black fixed-onscroll">
+    <div class="container">
+      <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#main_nav3">
+        <span class="navbar-toggler-icon"></span>
+      </button>
+      <div class="collapse navbar-collapse" id="main_nav3">
+        <ul class="navbar-nav">
+          <li class="nav-item"><a class="nav-link" resource="1" asp-action="Index" localize-content>Home</a></li>
+          <li class="nav-item"><a class="nav-link" resource="2" asp-action="Services" localize-content> Services </a></li>
+          <li class="nav-item"><a class="nav-link" resource="3" asp-action="About" localize-content> About </a></li>
+        </ul>
+        <div class="mx-auto d-none d-lg-block">
+          <a class="navbar-brand m-auto" asp-action="Index">
+            <img src="/image/logo-black.svg" alt="" srcset="">
+          </a>
+        </div>
+        <ul class="navbar-nav">
+          <li class="nav-item"><a class="nav-link" asp-action="Partners" resource="4"> Partners </a></li>
+          <li class="nav-item"><a class="nav-link" asp-action="Education" resource="5"> Education </a></li>
+          <li class="nav-item"><a class="nav-link" asp-action="Contact" resource="6"> Contact </a></li>
+        </ul>
+        <ul class="d-lg-none px-3">
+          <partial name="_SocialMedia" />
+        </ul>
+        <div class="d-lg-none px-3">
+          <div class="dropdown">
+            <partial name="_Language" />
+          </div>
+        </div>
+      </div> <!-- navbar-collapse.// -->
+    </div> <!-- container.// -->
+    <div class="mx-auto d-lg-none">
+      <a class="navbar-brand mx-auto" asp-action="Index">
+        <img src="/image/logo-black.svg" alt="" srcset="">
+      </a>
+    </div>
+  </nav>
+
+</header>

@@ -1,0 +1,38 @@
+﻿@model ResourceContent
+
+@{ 
+  string dir = "ltr";
+  if (Model.Language == Language.Arabic && Model.Language == Language.Persian)
+  {
+    dir = "rtl";
+  }
+}
+
+<div class="modal fade" id="locEditModal">
+  <div class="modal-dialog modal-lg">
+    <div class="modal-content">
+      <!-- Modal Header -->
+      <div class="modal-header">
+        <p class="modal-title">@Model.Text</p>
+        <button type="button" class="close" onclick="closeAndRemoveModel('#locEditModal')">&times;</button>
+      </div>
+      <form id="loc-form">
+        <input type="hidden" asp-for="Id" />
+        <input type="hidden" asp-for="Language" />
+        <input type="hidden" asp-for="Position" />
+        <div class="modal-body mx-3">
+          <div class="form-group">
+            <label asp-for="Text">@Model.Language.ToString()</label>
+            <textarea asp-for="Text" class="form-control" dir="@dir" rows="5"></textarea>
+          </div>
+          <p class="text-info">Put <span class="text-black" style="font-size:1.5rem">-</span> to remove the text</p>
+        </div>
+        <div class="modal-footer">
+          <button type="button" class="btn btn-primary" onclick="locSave(this)" localize-content>Save</button>
+          <button type="button" class="btn" data-dismiss="modal" onclick="closeAndRemoveModel('#locEditModal')" localize-content>Cancel</button>
+        </div>
+      </form>
+
+    </div>
+  </div>
+</div>

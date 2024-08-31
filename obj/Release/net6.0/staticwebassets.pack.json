@@ -1,0 +1,489 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\mkws\\Documents\\GitHub\\Bigqx_website\\BIGQXWebsite\\BIGQXWebsite\\obj\\Release\\net6.0\\scopedcss\\projectbundle\\BIGQXWebsite.bundle.scp.css",
+      "PackagePath": "staticwebassets\\BIGQXWebsite.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\mkws\\Documents\\GitHub\\Bigqx_website\\BIGQXWebsite\\BIGQXWebsite\\wwwroot\\browserconfig.xml",
+      "PackagePath": "staticwebassets\\browserconfig.xml"
+    },
+    {
+      "Id": "C:\\Users\\mkws\\Documents\\GitHub\\Bigqx_website\\BIGQXWebsite\\BIGQXWebsite\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\mkws\\Documents\\GitHub\\Bigqx_website\\BIGQXWebsite\\BIGQXWebsite\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\mkws\\Documents\\GitHub\\Bigqx_website\\BIGQXWebsite\\BIGQXWebsite\\wwwroot\\favicon\\android-chrome-192x192.png",
+      "PackagePath": "staticwebassets\\favicon\\android-chrome-192x192.png"
+    },
+    {
+      "Id": "C:\\Users\\mkws\\Documents\\GitHub\\Bigqx_website\\BIGQXWebsite\\BIGQXWebsite\\wwwroot\\favicon\\android-chrome-512x512.png",
+      "PackagePath": "staticwebassets\\favicon\\android-chrome-512x512.png"
+    },
+    {
+      "Id": "C:\\Users\\mkws\\Documents\\GitHub\\Bigqx_website\\BIGQXWebsite\\BIGQXWebsite\\wwwroot\\favicon\\apple-touch-icon.png",
+      "PackagePath": "staticwebassets\\favicon\\apple-touch-icon.png"
+    },
+    {
+      "Id": "C:\\Users\\mkws\\Documents\\GitHub\\Bigqx_website\\BIGQXWebsite\\BIGQXWebsite\\wwwroot\\favicon\\browserconfig.xml",
+      "PackagePath": "staticwebassets\\favicon\\browserconfig.xml"
+    },
+    {
+      "Id": "C:\\Users\\mkws\\Documents\\GitHub\\Bigqx_website\\BIGQXWebsite\\BIGQXWebsite\\wwwroot\\favicon\\favicon-16x16.png",
+      "PackagePath": "staticwebassets\\favicon\\favicon-16x16.png"
+    },
+    {
+      "Id": "C:\\Users\\mkws\\Documents\\GitHub\\Bigqx_website\\BIGQXWebsite\\BIGQXWebsite\\wwwroot\\favicon\\favicon-32x32.png",
+      "PackagePath": "staticwebassets\\favicon\\favicon-32x32.png"
+    },
+    {
+      "Id": "C:\\Users\\mkws\\Documents\\GitHub\\Bigqx_website\\BIGQXWebsite\\BIGQXWebsite\\wwwroot\\favicon\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\mkws\\Documents\\GitHub\\Bigqx_website\\BIGQXWebsite\\BIGQXWebsite\\wwwroot\\favicon\\mstile-144x144.png",
+      "PackagePath": "staticwebassets\\favicon\\mstile-144x144.png"
+    },
+    {
+      "Id": "C:\\Users\\mkws\\Documents\\GitHub\\Bigqx_website\\BIGQXWebsite\\BIGQXWebsite\\wwwroot\\favicon\\mstile-150x150.png",
+      "PackagePath": "staticwebassets\\favicon\\mstile-150x150.png"
+    },
+    {
+      "Id": "C:\\Users\\mkws\\Documents\\GitHub\\Bigqx_website\\BIGQXWebsite\\BIGQXWebsite\\wwwroot\\favicon\\mstile-310x150.png",
+      "PackagePath": "staticwebassets\\favicon\\mstile-310x150.png"
+    },
+    {
+      "Id": "C:\\Users\\mkws\\Documents\\GitHub\\Bigqx_website\\BIGQXWebsite\\BIGQXWebsite\\wwwroot\\favicon\\mstile-310x310.png",
+      "PackagePath": "staticwebassets\\favicon\\mstile-310x310.png"
+    },
+    {
+      "Id": "C:\\Users\\mkws\\Documents\\GitHub\\Bigqx_website\\BIGQXWebsite\\BIGQXWebsite\\wwwroot\\favicon\\mstile-70x70.png",
+      "PackagePath": "staticwebassets\\favicon\\mstile-70x70.png"
+    },
+    {
+      "Id": "C:\\Users\\mkws\\Documents\\GitHub\\Bigqx_website\\BIGQXWebsite\\BIGQXWebsite\\wwwroot\\favicon\\safari-pinned-tab.svg",
+      "PackagePath": "staticwebassets\\favicon\\safari-pinned-tab.svg"
+    },
+    {
+      "Id": "C:\\Users\\mkws\\Documents\\GitHub\\Bigqx_website\\BIGQXWebsite\\BIGQXWebsite\\wwwroot\\favicon\\site.webmanifest",
+      "PackagePath": "staticwebassets\\favicon\\site.webmanifest"
+    },
+    {
+      "Id": "C:\\Users\\mkws\\Documents\\GitHub\\Bigqx_website\\BIGQXWebsite\\BIGQXWebsite\\wwwroot\\image\\1.png",
+      "PackagePath": "staticwebassets\\image\\1.png"
+    },
+    {
+      "Id": "C:\\Users\\mkws\\Documents\\GitHub\\Bigqx_website\\BIGQXWebsite\\BIGQXWebsite\\wwwroot\\image\\2.png",
+      "PackagePath": "staticwebassets\\image\\2.png"
+    },
+    {
+      "Id": "C:\\Users\\mkws\\Documents\\GitHub\\Bigqx_website\\BIGQXWebsite\\BIGQXWebsite\\wwwroot\\image\\3.jpg",
+      "PackagePath": "staticwebassets\\image\\3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mkws\\Documents\\GitHub\\Bigqx_website\\BIGQXWebsite\\BIGQXWebsite\\wwwroot\\image\\3.png",
+      "PackagePath": "staticwebassets\\image\\3.png"
+    },
+    {
+      "Id": "C:\\Users\\mkws\\Documents\\GitHub\\Bigqx_website\\BIGQXWebsite\\BIGQXWebsite\\wwwroot\\image\\Logo One Color.svg",
+      "PackagePath": "staticwebassets\\image\\Logo One Color.svg"
+    },
+    {
+      "Id": "C:\\Users\\mkws\\Documents\\GitHub\\Bigqx_website\\BIGQXWebsite\\BIGQXWebsite\\wwwroot\\image\\Multi-Asset Investment.png",
+      "PackagePath": "staticwebassets\\image\\Multi-Asset Investment.png"
+    },
+    {
+      "Id": "C:\\Users\\mkws\\Documents\\GitHub\\Bigqx_website\\BIGQXWebsite\\BIGQXWebsite\\wwwroot\\image\\Rectangle 22.jpg",
+      "PackagePath": "staticwebassets\\image\\Rectangle 22.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mkws\\Documents\\GitHub\\Bigqx_website\\BIGQXWebsite\\BIGQXWebsite\\wwwroot\\image\\Social Collaboration.png",
+      "PackagePath": "staticwebassets\\image\\Social Collaboration.png"
+    },
+    {
+      "Id": "C:\\Users\\mkws\\Documents\\GitHub\\Bigqx_website\\BIGQXWebsite\\BIGQXWebsite\\wwwroot\\image\\about-charts.jpg",
+      "PackagePath": "staticwebassets\\image\\about-charts.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mkws\\Documents\\GitHub\\Bigqx_website\\BIGQXWebsite\\BIGQXWebsite\\wwwroot\\image\\about\\About-man.png",
+      "PackagePath": "staticwebassets\\image\\about\\About-man.png"
+    },
+    {
+      "Id": "C:\\Users\\mkws\\Documents\\GitHub\\Bigqx_website\\BIGQXWebsite\\BIGQXWebsite\\wwwroot\\image\\about\\Mission.png",
+      "PackagePath": "staticwebassets\\image\\about\\Mission.png"
+    },
+    {
+      "Id": "C:\\Users\\mkws\\Documents\\GitHub\\Bigqx_website\\BIGQXWebsite\\BIGQXWebsite\\wwwroot\\image\\about\\Opportunities-for-Growth.png",
+      "PackagePath": "staticwebassets\\image\\about\\Opportunities-for-Growth.png"
+    },
+    {
+      "Id": "C:\\Users\\mkws\\Documents\\GitHub\\Bigqx_website\\BIGQXWebsite\\BIGQXWebsite\\wwwroot\\image\\about\\Vision.png",
+      "PackagePath": "staticwebassets\\image\\about\\Vision.png"
+    },
+    {
+      "Id": "C:\\Users\\mkws\\Documents\\GitHub\\Bigqx_website\\BIGQXWebsite\\BIGQXWebsite\\wwwroot\\image\\about\\We-Shape-the-Future.png",
+      "PackagePath": "staticwebassets\\image\\about\\We-Shape-the-Future.png"
+    },
+    {
+      "Id": "C:\\Users\\mkws\\Documents\\GitHub\\Bigqx_website\\BIGQXWebsite\\BIGQXWebsite\\wwwroot\\image\\about\\intro.jpg",
+      "PackagePath": "staticwebassets\\image\\about\\intro.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mkws\\Documents\\GitHub\\Bigqx_website\\BIGQXWebsite\\BIGQXWebsite\\wwwroot\\image\\about\\opportunities-for-growth.jpg",
+      "PackagePath": "staticwebassets\\image\\about\\opportunities-for-growth.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mkws\\Documents\\GitHub\\Bigqx_website\\BIGQXWebsite\\BIGQXWebsite\\wwwroot\\image\\book.svg",
+      "PackagePath": "staticwebassets\\image\\book.svg"
+    },
+    {
+      "Id": "C:\\Users\\mkws\\Documents\\GitHub\\Bigqx_website\\BIGQXWebsite\\BIGQXWebsite\\wwwroot\\image\\charts.png",
+      "PackagePath": "staticwebassets\\image\\charts.png"
+    },
+    {
+      "Id": "C:\\Users\\mkws\\Documents\\GitHub\\Bigqx_website\\BIGQXWebsite\\BIGQXWebsite\\wwwroot\\image\\contact\\questions.png",
+      "PackagePath": "staticwebassets\\image\\contact\\questions.png"
+    },
+    {
+      "Id": "C:\\Users\\mkws\\Documents\\GitHub\\Bigqx_website\\BIGQXWebsite\\BIGQXWebsite\\wwwroot\\image\\doller.svg",
+      "PackagePath": "staticwebassets\\image\\doller.svg"
+    },
+    {
+      "Id": "C:\\Users\\mkws\\Documents\\GitHub\\Bigqx_website\\BIGQXWebsite\\BIGQXWebsite\\wwwroot\\image\\flag\\es.svg",
+      "PackagePath": "staticwebassets\\image\\flag\\es.svg"
+    },
+    {
+      "Id": "C:\\Users\\mkws\\Documents\\GitHub\\Bigqx_website\\BIGQXWebsite\\BIGQXWebsite\\wwwroot\\image\\flag\\gb.svg",
+      "PackagePath": "staticwebassets\\image\\flag\\gb.svg"
+    },
+    {
+      "Id": "C:\\Users\\mkws\\Documents\\GitHub\\Bigqx_website\\BIGQXWebsite\\BIGQXWebsite\\wwwroot\\image\\flag\\ir.svg",
+      "PackagePath": "staticwebassets\\image\\flag\\ir.svg"
+    },
+    {
+      "Id": "C:\\Users\\mkws\\Documents\\GitHub\\Bigqx_website\\BIGQXWebsite\\BIGQXWebsite\\wwwroot\\image\\flag\\pt.svg",
+      "PackagePath": "staticwebassets\\image\\flag\\pt.svg"
+    },
+    {
+      "Id": "C:\\Users\\mkws\\Documents\\GitHub\\Bigqx_website\\BIGQXWebsite\\BIGQXWebsite\\wwwroot\\image\\flag\\sa.svg",
+      "PackagePath": "staticwebassets\\image\\flag\\sa.svg"
+    },
+    {
+      "Id": "C:\\Users\\mkws\\Documents\\GitHub\\Bigqx_website\\BIGQXWebsite\\BIGQXWebsite\\wwwroot\\image\\flag\\tr.svg",
+      "PackagePath": "staticwebassets\\image\\flag\\tr.svg"
+    },
+    {
+      "Id": "C:\\Users\\mkws\\Documents\\GitHub\\Bigqx_website\\BIGQXWebsite\\BIGQXWebsite\\wwwroot\\image\\home-section-2.png",
+      "PackagePath": "staticwebassets\\image\\home-section-2.png"
+    },
+    {
+      "Id": "C:\\Users\\mkws\\Documents\\GitHub\\Bigqx_website\\BIGQXWebsite\\BIGQXWebsite\\wwwroot\\image\\investor-education.svg",
+      "PackagePath": "staticwebassets\\image\\investor-education.svg"
+    },
+    {
+      "Id": "C:\\Users\\mkws\\Documents\\GitHub\\Bigqx_website\\BIGQXWebsite\\BIGQXWebsite\\wwwroot\\image\\let-the-journey-begin.png",
+      "PackagePath": "staticwebassets\\image\\let-the-journey-begin.png"
+    },
+    {
+      "Id": "C:\\Users\\mkws\\Documents\\GitHub\\Bigqx_website\\BIGQXWebsite\\BIGQXWebsite\\wwwroot\\image\\logo-black.svg",
+      "PackagePath": "staticwebassets\\image\\logo-black.svg"
+    },
+    {
+      "Id": "C:\\Users\\mkws\\Documents\\GitHub\\Bigqx_website\\BIGQXWebsite\\BIGQXWebsite\\wwwroot\\image\\partner.jpg",
+      "PackagePath": "staticwebassets\\image\\partner.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mkws\\Documents\\GitHub\\Bigqx_website\\BIGQXWebsite\\BIGQXWebsite\\wwwroot\\image\\ready-to-embark-on-an-investment-journey.png",
+      "PackagePath": "staticwebassets\\image\\ready-to-embark-on-an-investment-journey.png"
+    },
+    {
+      "Id": "C:\\Users\\mkws\\Documents\\GitHub\\Bigqx_website\\BIGQXWebsite\\BIGQXWebsite\\wwwroot\\image\\rear-view-businessman-talking-phone-top-building.jpg",
+      "PackagePath": "staticwebassets\\image\\rear-view-businessman-talking-phone-top-building.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mkws\\Documents\\GitHub\\Bigqx_website\\BIGQXWebsite\\BIGQXWebsite\\wwwroot\\image\\rear-view-businessman-talking-phone-top-building.png",
+      "PackagePath": "staticwebassets\\image\\rear-view-businessman-talking-phone-top-building.png"
+    },
+    {
+      "Id": "C:\\Users\\mkws\\Documents\\GitHub\\Bigqx_website\\BIGQXWebsite\\BIGQXWebsite\\wwwroot\\image\\red-rectangle.svg",
+      "PackagePath": "staticwebassets\\image\\red-rectangle.svg"
+    },
+    {
+      "Id": "C:\\Users\\mkws\\Documents\\GitHub\\Bigqx_website\\BIGQXWebsite\\BIGQXWebsite\\wwwroot\\image\\slider2.jpg",
+      "PackagePath": "staticwebassets\\image\\slider2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mkws\\Documents\\GitHub\\Bigqx_website\\BIGQXWebsite\\BIGQXWebsite\\wwwroot\\image\\social-collaboration.jpg",
+      "PackagePath": "staticwebassets\\image\\social-collaboration.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mkws\\Documents\\GitHub\\Bigqx_website\\BIGQXWebsite\\BIGQXWebsite\\wwwroot\\image\\unlock-the-power-of-possibilities.jpg",
+      "PackagePath": "staticwebassets\\image\\unlock-the-power-of-possibilities.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mkws\\Documents\\GitHub\\Bigqx_website\\BIGQXWebsite\\BIGQXWebsite\\wwwroot\\image\\unlock-the-power-of-possibilities.png",
+      "PackagePath": "staticwebassets\\image\\unlock-the-power-of-possibilities.png"
+    },
+    {
+      "Id": "C:\\Users\\mkws\\Documents\\GitHub\\Bigqx_website\\BIGQXWebsite\\BIGQXWebsite\\wwwroot\\image\\user.svg",
+      "PackagePath": "staticwebassets\\image\\user.svg"
+    },
+    {
+      "Id": "C:\\Users\\mkws\\Documents\\GitHub\\Bigqx_website\\BIGQXWebsite\\BIGQXWebsite\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\mkws\\Documents\\GitHub\\Bigqx_website\\BIGQXWebsite\\BIGQXWebsite\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\mkws\\Documents\\GitHub\\Bigqx_website\\BIGQXWebsite\\BIGQXWebsite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\mkws\\Documents\\GitHub\\Bigqx_website\\BIGQXWebsite\\BIGQXWebsite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\mkws\\Documents\\GitHub\\Bigqx_website\\BIGQXWebsite\\BIGQXWebsite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\mkws\\Documents\\GitHub\\Bigqx_website\\BIGQXWebsite\\BIGQXWebsite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\mkws\\Documents\\GitHub\\Bigqx_website\\BIGQXWebsite\\BIGQXWebsite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\mkws\\Documents\\GitHub\\Bigqx_website\\BIGQXWebsite\\BIGQXWebsite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\mkws\\Documents\\GitHub\\Bigqx_website\\BIGQXWebsite\\BIGQXWebsite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\mkws\\Documents\\GitHub\\Bigqx_website\\BIGQXWebsite\\BIGQXWebsite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\mkws\\Documents\\GitHub\\Bigqx_website\\BIGQXWebsite\\BIGQXWebsite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\mkws\\Documents\\GitHub\\Bigqx_website\\BIGQXWebsite\\BIGQXWebsite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\mkws\\Documents\\GitHub\\Bigqx_website\\BIGQXWebsite\\BIGQXWebsite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\mkws\\Documents\\GitHub\\Bigqx_website\\BIGQXWebsite\\BIGQXWebsite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\mkws\\Documents\\GitHub\\Bigqx_website\\BIGQXWebsite\\BIGQXWebsite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\mkws\\Documents\\GitHub\\Bigqx_website\\BIGQXWebsite\\BIGQXWebsite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\mkws\\Documents\\GitHub\\Bigqx_website\\BIGQXWebsite\\BIGQXWebsite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\mkws\\Documents\\GitHub\\Bigqx_website\\BIGQXWebsite\\BIGQXWebsite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\mkws\\Documents\\GitHub\\Bigqx_website\\BIGQXWebsite\\BIGQXWebsite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\mkws\\Documents\\GitHub\\Bigqx_website\\BIGQXWebsite\\BIGQXWebsite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\mkws\\Documents\\GitHub\\Bigqx_website\\BIGQXWebsite\\BIGQXWebsite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\mkws\\Documents\\GitHub\\Bigqx_website\\BIGQXWebsite\\BIGQXWebsite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\mkws\\Documents\\GitHub\\Bigqx_website\\BIGQXWebsite\\BIGQXWebsite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\mkws\\Documents\\GitHub\\Bigqx_website\\BIGQXWebsite\\BIGQXWebsite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\mkws\\Documents\\GitHub\\Bigqx_website\\BIGQXWebsite\\BIGQXWebsite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\mkws\\Documents\\GitHub\\Bigqx_website\\BIGQXWebsite\\BIGQXWebsite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\mkws\\Documents\\GitHub\\Bigqx_website\\BIGQXWebsite\\BIGQXWebsite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\mkws\\Documents\\GitHub\\Bigqx_website\\BIGQXWebsite\\BIGQXWebsite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\mkws\\Documents\\GitHub\\Bigqx_website\\BIGQXWebsite\\BIGQXWebsite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\mkws\\Documents\\GitHub\\Bigqx_website\\BIGQXWebsite\\BIGQXWebsite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\mkws\\Documents\\GitHub\\Bigqx_website\\BIGQXWebsite\\BIGQXWebsite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\mkws\\Documents\\GitHub\\Bigqx_website\\BIGQXWebsite\\BIGQXWebsite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\mkws\\Documents\\GitHub\\Bigqx_website\\BIGQXWebsite\\BIGQXWebsite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\mkws\\Documents\\GitHub\\Bigqx_website\\BIGQXWebsite\\BIGQXWebsite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\mkws\\Documents\\GitHub\\Bigqx_website\\BIGQXWebsite\\BIGQXWebsite\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\mkws\\Documents\\GitHub\\Bigqx_website\\BIGQXWebsite\\BIGQXWebsite\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\mkws\\Documents\\GitHub\\Bigqx_website\\BIGQXWebsite\\BIGQXWebsite\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\mkws\\Documents\\GitHub\\Bigqx_website\\BIGQXWebsite\\BIGQXWebsite\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\mkws\\Documents\\GitHub\\Bigqx_website\\BIGQXWebsite\\BIGQXWebsite\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\mkws\\Documents\\GitHub\\Bigqx_website\\BIGQXWebsite\\BIGQXWebsite\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\mkws\\Documents\\GitHub\\Bigqx_website\\BIGQXWebsite\\BIGQXWebsite\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\mkws\\Documents\\GitHub\\Bigqx_website\\BIGQXWebsite\\BIGQXWebsite\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\mkws\\Documents\\GitHub\\Bigqx_website\\BIGQXWebsite\\BIGQXWebsite\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\mkws\\Documents\\GitHub\\Bigqx_website\\BIGQXWebsite\\BIGQXWebsite\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\mkws\\Documents\\GitHub\\Bigqx_website\\BIGQXWebsite\\BIGQXWebsite\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\mkws\\Documents\\GitHub\\Bigqx_website\\BIGQXWebsite\\BIGQXWebsite\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\mkws\\Documents\\GitHub\\Bigqx_website\\BIGQXWebsite\\BIGQXWebsite\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\mkws\\Documents\\GitHub\\Bigqx_website\\BIGQXWebsite\\BIGQXWebsite\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\mkws\\Documents\\GitHub\\Bigqx_website\\BIGQXWebsite\\BIGQXWebsite\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\mkws\\Documents\\GitHub\\Bigqx_website\\BIGQXWebsite\\BIGQXWebsite\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\mkws\\Documents\\GitHub\\Bigqx_website\\BIGQXWebsite\\BIGQXWebsite\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\mkws\\Documents\\GitHub\\Bigqx_website\\BIGQXWebsite\\BIGQXWebsite\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\mkws\\Documents\\GitHub\\Bigqx_website\\BIGQXWebsite\\BIGQXWebsite\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\mkws\\Documents\\GitHub\\Bigqx_website\\BIGQXWebsite\\BIGQXWebsite\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\mkws\\Documents\\GitHub\\Bigqx_website\\BIGQXWebsite\\BIGQXWebsite\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\mkws\\Documents\\GitHub\\Bigqx_website\\BIGQXWebsite\\BIGQXWebsite\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\mkws\\Documents\\GitHub\\Bigqx_website\\BIGQXWebsite\\BIGQXWebsite\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\mkws\\Documents\\GitHub\\Bigqx_website\\BIGQXWebsite\\BIGQXWebsite\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "C:\\Users\\mkws\\Documents\\GitHub\\Bigqx_website\\BIGQXWebsite\\BIGQXWebsite\\wwwroot\\site.webmanifest",
+      "PackagePath": "staticwebassets\\site.webmanifest"
+    },
+    {
+      "Id": "obj\\Release\\net6.0\\staticwebassets\\msbuild.BIGQXWebsite.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Release\\net6.0\\staticwebassets\\msbuild.build.BIGQXWebsite.props",
+      "PackagePath": "build\\BIGQXWebsite.props"
+    },
+    {
+      "Id": "obj\\Release\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.BIGQXWebsite.props",
+      "PackagePath": "buildMultiTargeting\\BIGQXWebsite.props"
+    },
+    {
+      "Id": "obj\\Release\\net6.0\\staticwebassets\\msbuild.buildTransitive.BIGQXWebsite.props",
+      "PackagePath": "buildTransitive\\BIGQXWebsite.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

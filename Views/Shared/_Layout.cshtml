@@ -1,0 +1,15 @@
+﻿<!DOCTYPE html>
+<html lang="@LocalizationHelper.GetCode()">
+<partial name="_Head" />
+<body class='@(System.Globalization.CultureInfo.CurrentCulture.TextInfo.IsRightToLeft ? "rtl" : "ltr")'>
+  <partial name="_Navbar" />
+  <main role="main">
+    @RenderBody()
+  </main>
+  <partial name="_Footer" />
+  <input type="hidden" id="SiteLanguage" value="@LocalizationHelper.GetCode()" />
+  <div id="loc-modal"></div>
+  <partial name="_Script" />
+  @await RenderSectionAsync("Scripts", required: false)
+</body>
+</html>

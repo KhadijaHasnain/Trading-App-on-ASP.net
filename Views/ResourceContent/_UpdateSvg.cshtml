@@ -1,0 +1,45 @@
+﻿@model ResourceContent
+
+@{
+  string dir = "ltr";
+  if (Model.Language == Language.Arabic || Model.Language == Language.Persian)
+  {
+    dir = "rtl";
+  }
+}
+
+<div class="modal fade" id="locEditModal">
+  <div class="modal-dialog modal-lg">
+    <div class="modal-content">
+      <!-- Modal Header -->
+      <div class="modal-header">
+        <p class="modal-title">Upload Icon</p>
+        <button type="button" class="close" onclick="closeAndRemoveModel('#locEditModal')">&times;</button>
+      </div>
+      <form id="loc-form">
+        <input type="hidden" asp-for="Id" />
+        <input type="hidden" asp-for="Language" />
+        <input type="hidden" asp-for="Position" />
+        <input type="hidden" asp-for="Type" />
+        <input type="hidden" asp-for="Text" />
+        <div class="modal-body mx-3">
+          <div class="custom-file mb-3">
+            <label for="uploadSvgInput" class="form-label">Upload icon:</label>
+            <input class="form-control" type="file" id="uploadSvgInput" accept=".svg" onchange="bindSvg()">
+          </div>
+          <small class="text-secondary">Only SVG file</small>
+
+          <div class="priview">
+            <div class="svg" id="svgPreview">
+              @Html.Raw(Model.Text);
+            </div>
+          </div>
+        </div>
+        <div class="modal-footer">
+          <button type="button" class="btn btn-primary" onclick="locSave(this)" localize-content>Save</button>
+          <button type="button" class="btn" data-dismiss="modal" onclick="closeAndRemoveModel('#locEditModal')" localize-content>Cancel</button>
+        </div>
+      </form>
+    </div>
+  </div>
+</div>

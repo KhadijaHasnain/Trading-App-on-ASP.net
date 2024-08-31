@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121.
+-->
+<Project>
+  <PropertyGroup>
+    <_PublishTargetUrl>C:\Users\mkws\Documents\GitHub\Bigqx_website\BIGQXWebsite\BIGQXWebsite\bin\Release\net6.0\publish\</_PublishTargetUrl>
+    <History>True|2024-06-05T20:01:43.5208135Z;True|2024-06-02T23:47:32.3093309+03:00;True|2024-01-01T21:45:54.4518812+03:00;True|2024-01-01T21:45:43.4606172+03:00;True|2023-12-10T23:33:21.1713166+03:00;True|2023-12-10T01:31:14.5151516+03:00;True|2023-11-22T23:32:15.5509943+03:00;True|2023-11-22T23:29:15.9478746+03:00;True|2023-11-12T03:07:34.6260361+03:00;True|2023-11-07T23:54:35.2065547+03:00;True|2023-11-07T00:00:26.7024476+03:00;True|2023-11-06T23:55:46.6178754+03:00;True|2023-11-06T02:29:27.3146837+03:00;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+</Project>
